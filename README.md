@@ -46,7 +46,7 @@ npx eas-cli build -p android
 ```
 
 ```
-using tool covert aab file to apk
+Google store install AAB installer in your phone and covert aab file to apk file.
 ```
 
 
