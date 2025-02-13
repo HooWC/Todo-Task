@@ -1,0 +1,26 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "todoTask",
+    "slug": "todoTask",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "c7af2584-f226-4350-96f2-0f0e3e12398d"
+      }
+    },
+    "android": {
+      "package": "com.hoowc.todotask"
+    },
+    "splash": {
+      "image": "./assets/splash.png", // 确保这个路径是正确的
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  }
+}
