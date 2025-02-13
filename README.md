@@ -51,7 +51,7 @@ using tool covert aab file to apk
 
 
 
-## Doctor Build
+## Doctor Build （X don't care it）
 
 ```
 npx expo doctor@latest
